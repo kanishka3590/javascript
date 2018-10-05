@@ -1,0 +1,28 @@
+.div1{
+  text-align: center;
+}
+.div2{
+  text-align: center;
+  margin-top: 100px;
+}
+.img{
+  height: 100px;
+  width: 100px;
+}
+#play_button1{
+  float: left;
+}
+#play_button2{
+  float: right;
+}
+label{
+  text-decoration: underline;
+  font-weight: bold;
+  color: red;
+}
+#label1{
+  float: left;
+}
+#label2{
+  float: right;
+}

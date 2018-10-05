@@ -1,0 +1,25 @@
+.openGate1{
+  height: 400px;
+  width: 200px;
+  margin-top: 50px;
+  float: left;
+}
+.openGate2{
+  height: 400px;
+  width: 200px;
+  margin-top: 50px;
+  float: right;
+}
+
+.img{
+  height: 400px;
+  width: 200px;
+  margin-top: 50px;
+
+}
+div{
+  text-align: center;
+}
+section{
+  text-align: center;
+}
